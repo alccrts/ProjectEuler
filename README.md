@@ -1,4 +1,4 @@
- # projecteuler
+ # Python Projects
 
 This is an ongoing collection of the program code I have written to solve the Project Euler challenges.  
 
