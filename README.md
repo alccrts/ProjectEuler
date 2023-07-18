@@ -1,4 +1,4 @@
- # Python Projects
+**Python Projects**
 
-A collection of my projects using Python, which I studying via the University of Helsinki 'Intro & Advanced Progamming' course.  
+Python practice challenges, carried out while studying the University of Helsinki 'Intro & Advanced Progamming' course.  
 
